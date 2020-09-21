@@ -1,19 +1,14 @@
 ### Hi there 👋
 
-<!--
-**idisfkj/idisfkj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work at **[Morizo](http://morizo.ru)** as **Android Developer**. From time to time I share **[my best practices](https://github.com/lndmflngs/awesome-ktx)**. You can read more about me at **[Linkedin](https://www.linkedin.com/in/иван-з-b62aba114/)**
 
-Here are some ideas to get you started:
+<img align="right" alt="GIF" height="400px" src="https://media.giphy.com/media/VekcnHOwOI5So/giphy.gif" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently improving my skills in developing Android Applications
+- 🔭 I’m currently working on some Reddit project. Want to make a VK client and Github after it
+- 📫 How to reach me: **izinovyev42@gmail.com** or **[Telegram](https://t.me/lndmflngs)**
+
+### Stats
 ![idisfkj's github stats](https://github-readme-stats.vercel.app/api?username=lndmflngs&show_icons=true)
 
 ![top language](https://github-readme-stats.vercel.app/api/top-langs/?username=lndmflngs&layout=compact&card_width=445)
