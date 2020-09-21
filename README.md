@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" alt="GIF" height="350px" src="https://media.giphy.com/media/VekcnHOwOI5So/giphy.gif" />
+<img align="right" alt="GIF" height="325px" src="https://media.giphy.com/media/VekcnHOwOI5So/giphy.gif" />
 
 You can read more about me at **[Linkedin](https://www.linkedin.com/in/иван-з-b62aba114/)**
 
