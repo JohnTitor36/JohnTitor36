@@ -10,6 +10,7 @@ I work at **[Morizo](http://morizo.ru)** as **Android Developer**. From time to 
 - 🔭 I’m currently working on some Reddit project. Want to make a VK client and Github after it
 - 📫 How to reach me: **izinovyev42@gmail.com** or **[Telegram](https://t.me/lndmflngs)**
 
+
 ### Stats
 ![idisfkj's github stats](https://github-readme-stats.vercel.app/api?username=lndmflngs&show_icons=true)
 
