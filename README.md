@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" alt="GIF" height="325px" src="https://media.giphy.com/media/VekcnHOwOI5So/giphy.gif" />
+<img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/VekcnHOwOI5So/giphy.gif" />
 
 I work at **[Morizo](http://morizo.ru)** as **Android Developer**. From time to time I **[share](https://t.me/hobbittales)** my best practices. 
 
