@@ -12,4 +12,4 @@ You can read more about me at **[Linkedin](https://www.linkedin.com/in/иван-
 ### Stats
 ![idisfkj's github stats](https://github-readme-stats.vercel.app/api?username=ScornfulBirch&show_icons=true)
 
-![top language](https://github-readme-stats.vercel.app/api/top-langs/?username=ScornfulBirch&layout=compact&card_width=445)
+![top language](https://github-readme-stats.vercel.app/api/top-langs/?username=ScornfulBirch&layout=compact&card_width=445) 
