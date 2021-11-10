@@ -10,6 +10,6 @@ I work at **[Morizo](http://morizo.ru)** as **Android Developer**. From time to 
 You can read more about me at **[Linkedin](https://www.linkedin.com/in/иван-з-b62aba114/)**
 
 ### Stats
-![idisfkj's github stats](https://github-readme-stats.vercel.app/api?username=ScornfulBirch&layout=compact&count_private=true&theme=dracula&hide=contribs,issues&show_icons=true&include_all_commits=true&disable_animations=true)
+![idisfkj's github stats](https://github-readme-stats.vercel.app/api?username=JohnTitor36&layout=compact&count_private=true&theme=dracula&hide=contribs,issues&show_icons=true&include_all_commits=true&disable_animations=true)
 
-![top language](https://github-readme-stats.vercel.app/api/top-langs/?username=ScornfulBirch&langs_count=3t&count_private=true&theme=dracula&hide=contribs,issues&show_icons=true)
+![top language](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnTitor36&langs_count=3t&count_private=true&theme=dracula&hide=contribs,issues&show_icons=true)
