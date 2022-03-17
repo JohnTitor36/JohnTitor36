@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/VekcnHOwOI5So/giphy.gif" />
 
-I work at **[Morizo](http://morizo.ru)** as **Android Developer**. From time to time I **[share](https://t.me/hobbittales)** my best practices. 
+I work at **[VK](https://vk.com/)** as **Android Developer**. From time to time I **[share](https://t.me/hobbittales)** my best practices. 
 
 - 🌱 I'm currently improving my T-shaped skills
 - 📫 How to reach me: **izinovyev42@gmail.com** or **[Telegram](https://t.me/imbeerus)**
